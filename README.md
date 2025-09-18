@@ -1,11 +1,11 @@
-# 🧠 Text Analysis Toolkit
+# Text Analysis Toolkit
 
 An interactive **Text Analysis Toolkit** built with **Python** and **Tkinter**.  
 This project provides an intuitive GUI to perform various **Natural Language Processing (NLP)** tasks on French text, including cleaning, summarization, sentiment analysis, word frequency, word clouds, and PDF export.  
 
----
 
-## 🚀 Features
+
+##  Features
 - **Language Detection** → Detects the language of the input text.  
 - **Text Cleaning** → Lowercasing, punctuation removal, and stopword filtering.  
 - **Word Frequency Analysis** → Displays the most frequent words.  
@@ -17,7 +17,7 @@ This project provides an intuitive GUI to perform various **Natural Language Pro
 - **Export Results** → Save results as a PDF file.  
 - **User-Friendly GUI** → Built with Tkinter for ease of use.  
 
----
+
 
 ## 🛠️ Tech Stack
 - **Python 3**  
@@ -29,13 +29,5 @@ This project provides an intuitive GUI to perform various **Natural Language Pro
 - **Matplotlib** – Data visualization  
 - **ReportLab** – PDF export  
 
----
 
-## 📦 Installation
-Clone the repository and install the dependencies:  
-
-```bash
-git clone https://github.com/your-username/text-analysis-toolkit.git
-cd text-analysis-toolkit
-pip install -r requirements.txt
 

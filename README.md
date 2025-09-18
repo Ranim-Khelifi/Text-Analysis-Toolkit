@@ -1,7 +1,7 @@
 # Text Analysis Toolkit
 
 An interactive **Text Analysis Toolkit** built with **Python** and **Tkinter**.  
-This project provides an intuitive GUI to perform various **Natural Language Processing (NLP)** tasks on French text, including cleaning, summarization, sentiment analysis, word frequency, word clouds, and PDF export.  
+This project provides an intuitive GUI to perform various **Natural Language Processing (NLP)** tasks on text, including cleaning, summarization, sentiment analysis, word frequency, word clouds, and PDF export.  
 
 
 
